@@ -1,7 +1,8 @@
 # LNKLauncher
 Simple command launcher for EPIC games or just Windows links (Windows)
 # WHAT'S THIS FOR?
-This simple command tool allows you to launch EPIC games from Steam/GOG (or in general any .url and .lnk Windows files). It will not open any temporary window to launch the app. You can optionally specify also the real taskname launched by the game, and wait 'till it actually quits (so Steam/GOG etc. will show you're still playing 'till you really quit the game).
+This simple command tool allows you to launch EPIC games from Steam/GOG (or in general any .url and .lnk Windows files). It will not open any temporary window to launch the app. You can optionally specify also the real taskname launched by the game, and wait 'till it actually quits (so Steam/GOG etc. will show you're still playing 'till you really quit the game).\
+Since it can actually launch any .lnk or .url Windows file, you can consider it as a universal icon launcher.
 
 # FAQ
 Q: can I use additional launcher parameters to launch f.e. "game.exe -fullscreen"?\

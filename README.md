@@ -4,8 +4,7 @@ Simple command launcher for EPIC games or just Windows links (Windows)
 This simple command tool allows you to launch EPIC games from Steam/GOG (or in general any .url and .lnk Windows files). It will not open any temporary window to launch the app. You can optionally specify also the real taskname launched by the game, and wait 'till it actually quits (so Steam/GOG etc. will show you're still playing 'till you really quit the game).
 
 # FAQ
-Q: can I use additional launcher parameters to launch f.e. "game.exe -fullscreen"?
-
+Q: can I use additional launcher parameters to launch f.e. "game.exe -fullscreen"?\
 A: yes, it should work
 
 # ARGUMENTS

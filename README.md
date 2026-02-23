@@ -5,7 +5,7 @@ This simple command tool allows you to launch EPIC games from Steam/GOG (or in g
 Since it can actually launch any .lnk or .url Windows file, you can consider it as a universal icon launcher.
 
 # FAQ
-Q: can I use additional launcher parameters to launch f.e. "game.exe -fullscreen"?\
+Q: can I use additional parameters to launch f.e. "game.exe -fullscreen"?\
 A: yes, it should work (at least for .lnk files). Please, specify your launch options from the client itself (GOG/STEAM/EPIC/EA all have a per-game option for that).\
 \
 Q: what's so special about this launcher?\

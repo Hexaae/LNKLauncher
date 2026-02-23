@@ -27,4 +27,9 @@ You want to add GameX from EPIC to your Steam or GOG library...
 This will launch your EPIC game (or any other Windows .url/.lnk) exactly as if you doube-clicked on the client generated game launch icon.\
 Will also wait for the task to quit... to show you're still playing the game, 'till you actually quit.
 
+Example with game [REDACTED] from EPIC Store:\
+\
+<img width="1053" height="752" alt="image" src="https://github.com/user-attachments/assets/abcf194e-96fd-4636-9688-f5f43b2c3881" />
+
+
 Enjoy!

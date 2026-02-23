@@ -6,7 +6,7 @@ Since it can actually launch any .lnk or .url Windows file, you can consider it 
 
 # FAQ
 Q: can I use additional launcher parameters to launch f.e. "game.exe -fullscreen"?\
-A: yes, it should work
+A: yes, it should work (at least for .lnk files)
 
 # ARGUMENTS
 LNKLauncher.exe <PathToLNK> [ProcessName.exe] [optional parameters...]

@@ -19,7 +19,7 @@ You want to add GameX from EPIC to your Steam or GOG library...
 3) as launch option from Steam for example use:
    - PATH:  "C:\Users\me\Util\LNKLauncher.exe"
    - START FROM:  "C:\Epic Games\Games\GameX\"
-   - START OPTIONS:  "C:\Epic Games\Games\GameX\GameX.url" "gameX.exe" "-optional_parameters_here"
+   - START OPTIONS:  "C:\Epic Games\Games\GameX\GameX.url" "gameX.exe"
 
 This will launch your EPIC game (or any other Windows .url/.lnk) exactly as if you doube-clicked on the client generated game launch icon.\
 Will also wait for the task to quit to show you're still playing the game, 'till you actually quit.
